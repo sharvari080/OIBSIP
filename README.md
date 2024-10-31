@@ -24,4 +24,4 @@ The dataset used for this project contains measurements of iris flowers across t
 Install the required libraries using:
 ```bash
 pip install -r requirements.txt
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo-name/blob/main/your-notebook.ipynb)
+
